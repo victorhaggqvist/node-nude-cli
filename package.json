@@ -1,0 +1,20 @@
+{
+  "name": "nude-cli",
+  "version": "0.0.1",
+  "description": "A cli of nude.js on node",
+  "main": "nude-cli.js",
+  "dependencies": {
+    "nude": "~0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nude",
+    "nude.js",
+    "cli"
+  ],
+  "author": "Victor Häggqvist",
+  "license": "GPLv2"
+}
