@@ -1,6 +1,6 @@
 nude-cli
 ========
-A cli implementation of nude.js
+A cli for nude.js on node
 
 #Install
 ```sh
