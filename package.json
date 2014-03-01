@@ -1,6 +1,6 @@
 {
   "name": "nude-cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A cli for nudity detection with nude.js on node",
   "main": "nude-cli.js",
   "author": "Victor Häggqvist",
