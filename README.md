@@ -1,6 +1,6 @@
 nude-cli [![NPM version](https://badge.fury.io/js/nude-cli.png)](http://badge.fury.io/js/nude-cli)
 ========
-A cli for nude.js on node
+A cli for nudity detection with nude.js on node
 
 #Install
 ```sh
