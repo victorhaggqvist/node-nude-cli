@@ -1,8 +1,14 @@
 {
   "name": "nude-cli",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "A cli of nude.js on node",
   "main": "nude-cli.js",
+  "author": "Victor Häggqvist",
+  "license": "GPLv2",
+  "files": ["nude-cli.js","README.md","LICENSE","package.json"],
+  "bin": {
+    "nude-cli": "nude-cli.js"
+  },
   "dependencies": {
     "nude": "~0.0.1"
   },
@@ -15,6 +21,11 @@
     "nude.js",
     "cli"
   ],
-  "author": "Victor Häggqvist",
-  "license": "GPLv2"
+  "bugs": {
+    "url": "https://github.com/victorhaggqvist/node-nude-cli/issues"
+  },
+  "repository": {
+    "type" : "git"
+  , "url" : "https://github.com/victorhaggqvist/node-nude-cli.git"
+  }
 }
