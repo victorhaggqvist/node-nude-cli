@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var nude = require("nude");
 var first = process.argv[2];
 var second = process.argv[3];
@@ -21,8 +22,13 @@ if (first === undefined){
 // first is image if no second
 var image = (second === undefined)?first:second;
 
+// if absoulte path or not
+if (image.charAt(0) != "/") {
+  image = process.env.PWD + "/" + image;
+}
+
 // Do the thing
-nude.scan(__dirname + "/" + image, function(res) {
+nude.scan(image, function(res) {
   switch (first){
     case "-v":
     case "--verbose":
