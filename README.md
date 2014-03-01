@@ -16,5 +16,7 @@ false
 
 ##Options
 `-v` or `--verbose` Verbose output
+
 `-i` or `--integer` Return integer instead of a boolean
+
 `-h` or `--help` Display help
