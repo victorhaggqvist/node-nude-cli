@@ -1,4 +1,4 @@
-nude-cli [![NPM version](https://badge.fury.io/js/nude-cli.png)](http://badge.fury.io/js/nude-cli)
+nude-cli [![NPM version](https://badge.fury.io/js/nude-cli.png)](http://badge.fury.io/js/nude-cli) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/victorhaggqvist/node-nude-cli/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ========
 A cli for nudity detection with nude.js on node
 
