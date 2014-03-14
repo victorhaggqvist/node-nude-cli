@@ -4,7 +4,7 @@ A cli for nudity detection with nude.js on node
 
 #Install
 ```sh
-npm install nude-cli
+npm install nude-cli -g
 ```
 
 #Use
