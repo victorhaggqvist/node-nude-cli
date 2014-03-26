@@ -1,5 +1,7 @@
 nude-cli [![NPM version](https://badge.fury.io/js/nude-cli.png)](http://badge.fury.io/js/nude-cli) [![devDependency Status](https://david-dm.org/victorhaggqvist/node-nude-cli.png)](https://david-dm.org/victorhaggqvist/node-nude-cli#info=dependencies)
 ========
+[![NPM](https://nodei.co/npm/nude-cli.png?downloads=true)](https://nodei.co/npm/nude-cli/)
+
 A cli for nudity detection with nude.js on node
 
 #Install
