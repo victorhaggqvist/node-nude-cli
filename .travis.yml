@@ -1,3 +1,5 @@
 language: node_js
 before_script:
+  - sudo apt-get update -qq
+  - sudo apt-get install -y imagemagick
   - npm install -g grunt-cli
